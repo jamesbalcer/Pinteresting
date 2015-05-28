@@ -19,9 +19,5 @@ group :production do
 	gem 'pg'
 	gem 'rails_12factor'
 end
- 
-  gem 'web-console', '~> 2.0'
 
-  
-end
-
+gem 'web-console', '~> 2.0'
